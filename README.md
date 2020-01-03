@@ -74,28 +74,47 @@ United States has a steady increase in it's GDP through the years.
 
 ![](images/fig11.png)
 
+United States spent the highest amount of money on it's Military Expenditure, close to 3 Trillion dollars. China was the ranked second highest in Military Expenditure and it's value is just above 1 Trillion dollars. All other countries spent less than 0.5 Trillion dollars.
 
 ## Comparing Overall Military Expenditure by Country (in percentages):
 
 ![](images/fig13.png)
 
+United States' Military Expenditure is 50% of the global Military Expenditure. China, Saudi Arabia,  Russian Federation, France and Germany have the next highest Military Expenditure in that order. 
+
 ## Comparing GDP per person and Military Expenditure per person:
 
 ![](images/fig12.png)
+
+We are comparing the GDP per person to Military Expenditure per person. China has smallest GDP with 10,000 dollars and United States has the highest GDP which is close to 60,000 dollars. China also has the least Military Expenditure per person and Saudi Arabia has the highest Military Expenditure per person.
 
 ## Military Expenditure as a Share of GDP:
 
 ![](images/fig14.png)
 
+Almost all the countries allocate a consistent amount of their GDP for Military Expense, except for Saudi Arabia, Russian Federation and Israel.
+
 ## Military Expenditure difference in absolute values:
+
+We want to the country which has the fastest growing Military Expenditure, we compute this using 
+absolute values over the years.
 
 ![](images/fig15.png)
 
+We observe that United States has the highest difference in their Military Expenditure for the years 2017-2018, this is followed by China and Germany.
+
 ## Military Expenditure difference in percentages:
+
+We want to the country which has the fastest growing Military Expenditure, we compute this using 
+percentage difference over the years.
 
 ![](images/fig16.png)
 
+We find that South Korea has the highest percentage difference in its Military Expenditure for the years 2017-2018 of about 10%, this is followed by China and Germany.
+
 ## Conclusion
+
+In conclusion we can say that GDP and Military Expenditure are a very good metric to assess how well a country is performing. United States has the highest Military Expenditure and also has a very strong GDP. China is the second best in terms of GDP and Military Expenditure. We notice that South Korea has the fastest growing Military Expenditure in terms of percentages.
 
 ------------------------
 
