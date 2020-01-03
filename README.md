@@ -1,6 +1,3 @@
-# Military-Expenditure and Gross Domestic Product
-## Sheldon Sebastian
-
 ## Introduction
 We will analyze military expenditure of 10 countries and their Gross Domestic Product (GDP). We additionally want to find trends and draw conclusions.
 
