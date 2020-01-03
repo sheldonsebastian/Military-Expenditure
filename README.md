@@ -120,6 +120,6 @@ In conclusion we can say that GDP and Military Expenditure are a very good metri
 
 Check the following link for video explanation:
 
-[![](http://img.youtube.com/vi/V6FhuDDuIq4/0.jpg)](http://www.youtube.com/watch?v=V6FhuDDuIq4 "")
+[![](http://img.youtube.com/vi/V6FhuDDuIq4/0.jpg)](http://www.youtube.com/watch?v=V6FhuDDuIq4 "Video Explanation")
 
 [Link to Jupyter Notebook](https://github.com/sheldonsebastian/Military-Expenditure/blob/master/Military%20Expenditure%20Analysis.ipynb)
