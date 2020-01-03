@@ -10,61 +10,61 @@ We will analyze military expenditure of 10 countries and their Gross Domestic Pr
 
 We will compare Military Expenditure and GDP from 2014 to 2018 for the following 10 countries:
 
-1. China:
+a. China:
 
 ![](images/fig1.png)
 
 China's GDP and military expenditure follow a very closely related pattern and there is an increasing trend for GDP and Military Expenditure.
 
-2. France
+b. France
 
 ![](images/fig2.png)
 
 France's GDP and military expenditure too follow a closely related pattern. There is a drop in GDP and military expenditure from 2014 to 2015 but then we observe an increasing trend from 2015 onwards.
 
-3. Germany
+c. Germany
 
 ![](images/fig3.png)
 
 Germany's GDP and military expenditure also follow a closely related pattern. There is a drop in GDP and military expenditure from 2014 to 2015 but then we observe an increasing trend from 2015 onwards.
 
-4. Israel
+d. Israel
 
 ![](images/fig4.png)
 
 For Israel we notice that in the year 2016, its military expenditure decreased, but its GDP increased.
 
-5. Italy
+e. Italy
 
 ![](images/fig5.png)
 
 For Italy, we notice that the GDP and Military Expenditure was lowest in the year 2015, a possible reason for this could be the Great Recession which caused Italy's debt to be at all time high.
 
-6. Russian Federation
+f. Russian Federation
 
 ![](images/fig6.png)
 
 For Russian Federation we notice that the GDP and Military Expenditure is steadily decreasing, this could be due to the Russian Financial Crisis.
 
-7. Saudi Arabia
+g. Saudi Arabia
 
 ![](images/fig7.png)
 
 For Saudi Arabia in the year 2015, its Military Expenditure was very high, a possible reason could be that Saudi Arabia was in a War with its neighboring country Yemen in this period.
 
-8. South Korea
+h. South Korea
 
 ![](images/fig8.png)
 
 South Korea's GDP and Military Expenditure are closely related and have an increasing trend.
 
-9. United Kingdom
+i. United Kingdom
 
 ![](images/fig9.png)
 
 United Kingdom's GDP and Military Expenditure are closely related and have an decreasing trend.
 
-10. United States
+j. United States
 
 ![](images/fig10.png)
 
